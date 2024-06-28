@@ -4,7 +4,7 @@
     <div class="w-screen h-screen p-1 bg-white">
 
 
-        <div class="p-5 mx-auto mt-20 bg-gray-900 rounded-lg w-96 h-80">
+        <div class="p-5 mx-auto mt-20 bg-gray-800 rounded-lg w-96 h-80">
             <div class="flex items-center justify-center mt-6">
                 <img src="div.png" alt="" class="w-20 h-20 ">
             </div>
