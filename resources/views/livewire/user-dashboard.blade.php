@@ -42,7 +42,8 @@
                 </a>
                 <a href="/login" class="w-full">
                     <li class="w-full p-4 text-sm text-white bg-gray-800 h-14 hover:bg-gray-900"><i
-                            class="fa-solid fa-power-off"></i> <span class="ml-2">LOGOUTs</span> </li>
+                            class="fa-solid fa-power-off"></i> <span class="ml-2">LOGOUT</span> </li>
+                            <!-- removed s-->
                 </a>
             </div>
 
